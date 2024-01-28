@@ -1,5 +1,5 @@
 def main():
-    print("PRUEBA_1")
+    print("PRUEBA_ALGO_2")
     print("¡Funciona!")
 
 
